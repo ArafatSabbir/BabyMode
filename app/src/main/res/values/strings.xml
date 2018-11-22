@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">BabyMode</string>
     <string name="enter">Enter</string>
+    <string name="exit">Exit</string>
 </resources>
